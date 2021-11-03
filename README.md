@@ -6,7 +6,7 @@ jcart1-store-desk-ui
 jcart1-store-mobile-ui  
 jcart1-order-service  
 jcart1-product-service  
-jcart1-user-service  
+jcart1-user-center  
 jcart1-user-session-service  
 
 jcart1-admin-desk-ui  
